@@ -1,0 +1,95 @@
+.u-section-1 {background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/pexels-brent-keane-1702373.jpg"); background-position: 50% 50%}
+.u-section-1 .u-sheet-1 {min-height: 1602px}
+.u-section-1 .u-text-1 {font-family: "Aref Ruqaa"; font-weight: 700; animation-duration: 1000ms; margin: 19px 337px 0 auto}
+.u-section-1 .u-icon-1 {height: 64px; width: 64px; margin: -88px auto 0 20px}
+.u-section-1 .u-text-2 {font-family: "Aref Ruqaa"; font-weight: 700; font-size: 2.25rem; margin: 72px 718px 0 13px}
+.u-section-1 .u-btn-1 {background-image: linear-gradient(#f14c16, #b29a36); border-style: none; font-weight: 700; text-transform: uppercase; font-size: 1.5rem; margin: 66px auto 0 50px; padding: 9px 22px}
+.u-section-1 .u-slider-1 {min-height: 386px; width: 678px; margin: -300px -46px 0 auto}
+.u-section-1 .u-carousel-indicators-1 {position: absolute; width: 108px; height: 3px; top: auto; bottom: 30px}
+.u-section-1 .u-image-1 {background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/hanh-nguyen-j6DH45Bflho-unsplash.jpg"); background-position: 50% 50%; margin-top: 0; margin-bottom: 0}
+.u-section-1 .u-container-layout-1 {padding: 30px}
+.u-section-1 .u-image-2 {background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/brina-blum-surQ2mkZNxw-unsplash.jpg"); background-position: 50% 50%; margin-top: 0; margin-bottom: 0}
+.u-section-1 .u-container-layout-2 {padding: 30px}
+.u-section-1 .u-image-3 {background-image: url("images/eugenivy_reserv-vJQru3Q3sVM-unsplash.jpg"); background-position: 50% 50%}
+.u-section-1 .u-container-layout-3 {padding: 30px 50px}
+.u-section-1 .u-image-4 {background-image: url("images/StockSnap_7QH4K6AESO.jpg"); background-position: 50% 50%}
+.u-section-1 .u-container-layout-4 {padding: 30px 50px}
+.u-section-1 .u-carousel-control-1 {width: 56px; height: 56px; left: 0; position: absolute; right: auto}
+.u-section-1 .u-carousel-control-2 {width: 56px; height: 56px; left: auto; position: absolute; right: 0}
+.u-section-1 .u-text-3 {font-size: 1.875rem; font-weight: 700; margin: -61px 718px 0 -30px}
+.u-section-1 .u-shape-1 {width: 581px; height: 466px; background-image: none; margin: -18px -27px 0 auto}
+.u-section-1 .u-text-4 {font-size: 1.875rem; font-weight: 700; margin: -466px 57px 0 631px}
+.u-section-1 .u-video-1 {width: 516px; height: 361px; margin: -82px auto 0 4px}
+.u-section-1 .u-form-1 {height: 318px; margin: -282px 0 0 620px}
+.u-section-1 .u-text-5 {font-size: 1.875rem; font-weight: 700; margin: 52px 714px 0 36px}
+.u-section-1 .u-btn-3 {padding: 0}
+.u-section-1 .u-text-6 {font-size: 1.25rem; font-weight: 700; margin: 24px auto 0 121px}
+.u-section-1 .u-text-7 {font-size: 1.25rem; font-weight: 700; margin: 18px 833px 0 117px}
+.u-section-1 .u-btn-4 {background-image: linear-gradient(to right, #f14c16, #f1c50e); border-style: none; font-weight: 700; text-transform: uppercase; font-size: 1.5rem; margin: -55px 238px 0 auto; padding: 8px 45px 9px}
+.u-section-1 .u-text-8 {font-size: 1.25rem; font-weight: 700; margin: 24px auto 0 121px}
+.u-section-1 .u-icon-2 {height: 64px; width: 64px; background-image: none; margin: 43px 18px 0 auto}
+.u-section-1 .u-text-9 {font-size: 1.875rem; font-weight: 700; margin: -42px auto 57px 66px}
+.u-section-1 .u-btn-5 {padding: 0} 
+
+@media (max-width: 1199px){ .u-section-1 {background-size: 270%}
+.u-section-1 .u-sheet-1 {min-height: 1584px}
+.u-section-1 .u-text-1 {margin-top: 93px}
+.u-section-1 .u-icon-1 {margin-top: 294px}
+.u-section-1 .u-text-2 {margin-top: -303px}
+.u-section-1 .u-btn-1 {margin-top: -38px; margin-left: 0}
+.u-section-1 .u-slider-1 {height: auto}
+.u-section-1 .u-text-3 {margin-top: 66px}
+.u-section-1 .u-shape-1 {width: 570px; margin-top: -408px; margin-right: 24px}
+.u-section-1 .u-text-4 {margin-top: -240px}
+.u-section-1 .u-video-1 {margin-top: -293px}
+.u-section-1 .u-form-1 {margin-top: 114px; margin-left: 520px}
+.u-section-1 .u-text-5 {margin-top: -246px}
+.u-section-1 .u-text-6 {margin-top: -69px}
+.u-section-1 .u-text-7 {margin-top: 145px; margin-right: 733px; margin-left: 17px}
+.u-section-1 .u-btn-4 {margin-top: -118px; margin-right: 38px}
+.u-section-1 .u-text-8 {margin-top: -26px} }
+
+@media (max-width: 991px){ .u-section-1 .u-icon-1 {margin-top: 3817px}
+.u-section-1 .u-text-2 {margin-top: -3826px}
+.u-section-1 .u-btn-1 {margin-top: 1642px}
+.u-section-1 .u-container-layout-3 {padding-left: 30px; padding-right: 30px}
+.u-section-1 .u-container-layout-4 {padding-left: 30px; padding-right: 30px}
+.u-section-1 .u-text-3 {margin-top: -1614px}
+.u-section-1 .u-shape-1 {margin-top: -984px}
+.u-section-1 .u-video-1 {margin-top: -3413px}
+.u-section-1 .u-form-1 {margin-top: 1794px; margin-left: 300px}
+.u-section-1 .u-text-5 {margin-right: 530px; margin-left: 0}
+.u-section-1 .u-text-7 {margin-right: 530px; margin-left: 0}
+.u-section-1 .u-btn-4 {margin-right: 0} }
+
+@media (max-width: 767px){ .u-section-1 .u-text-1 {margin-top: 871px}
+.u-section-1 .u-icon-1 {margin-top: 5249px}
+.u-section-1 .u-text-2 {margin-top: -6022px; margin-right: 551px; margin-left: 0}
+.u-section-1 .u-btn-1 {margin-top: 1629px}
+.u-section-1 .u-slider-1 {width: 540px; margin-right: 0}
+.u-section-1 .u-container-layout-1 {padding-left: 10px; padding-right: 10px}
+.u-section-1 .u-container-layout-2 {padding-left: 10px; padding-right: 10px}
+.u-section-1 .u-container-layout-3 {padding-left: 10px; padding-right: 10px}
+.u-section-1 .u-container-layout-4 {padding-left: 10px; padding-right: 10px}
+.u-section-1 .u-text-3 {margin-right: 628px}
+.u-section-1 .u-shape-1 {width: 540px; margin-top: -983px; margin-right: 0}
+.u-section-1 .u-text-4 {margin-right: 0; margin-left: 508px}
+.u-section-1 .u-form-1 {margin-left: 120px}
+.u-section-1 .u-text-5 {margin-right: 350px}
+.u-section-1 .u-text-7 {margin-right: 350px} }
+
+@media (max-width: 575px){ .u-section-1 .u-icon-1 {margin-top: 5247px}
+.u-section-1 .u-text-2 {margin-top: -6007px; margin-right: 351px}
+.u-section-1 .u-btn-1 {margin-top: 1654px}
+.u-section-1 .u-slider-1 {width: 340px}
+.u-section-1 .u-text-3 {margin-right: 528px}
+.u-section-1 .u-shape-1 {width: 340px; margin-top: -984px}
+.u-section-1 .u-text-4 {margin-left: 308px}
+.u-section-1 .u-video-1 {width: 340px; margin-top: -3452px; margin-left: 0}
+.u-section-1 .u-form-1 {margin-left: 0}
+.u-section-1 .u-form-group-1 {width: 100%}
+.u-section-1 .u-form-group-2 {width: 100%}
+.u-section-1 .u-form-group-3 {width: 100%}
+.u-section-1 .u-form-group-4 {width: 100%}
+.u-section-1 .u-text-5 {margin-right: 150px}
+.u-section-1 .u-text-7 {margin-right: 150px} }

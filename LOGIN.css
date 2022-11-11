@@ -1,0 +1,38 @@
+.u-section-1 {background-image: linear-gradient(0deg, rgba(0,0,0,0.75), rgba(0,0,0,0.75)), url("images/ovidiu-creanga-aaJoT7YC3U4-unsplash.jpg"); background-position: 50% 50%}
+.u-section-1 .u-sheet-1 {min-height: 692px}
+.u-section-1 .u-layout-wrap-1 {margin: 60px auto 60px 0}
+.u-section-1 .u-image-1 {min-height: 572px; background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/pexels-dmitry-zvolskiy-1721934.jpg"); background-position: 50% 50%}
+.u-section-1 .u-container-layout-1 {padding: 30px 60px}
+.u-section-1 .u-text-1 {font-size: 3rem; margin: 158px 0 0}
+.u-section-1 .u-text-2 {font-size: 1.875rem; margin: 20px 26px 0 0}
+.u-section-1 .u-btn-1 {background-image: none; margin: 20px auto 0 0}
+.u-section-1 .u-layout-cell-2 {min-height: 572px; background-image: none}
+.u-section-1 .u-container-layout-2 {padding: 30px 60px}
+.u-section-1 .u-form-1 {height: 260px; margin: 158px -29px 0 -14px}
+.u-section-1 .u-form-group-2 {margin-left: 0}
+.u-section-1 .u-text-3 {font-size: 1.875rem; font-style: italic; text-decoration: underline !important; margin: 10px 111px 0 94px} 
+
+@media (max-width: 1199px){ .u-section-1 .u-sheet-1 {min-height: 592px}
+.u-section-1 .u-layout-wrap-1 {margin-right: initial; margin-left: initial}
+.u-section-1 .u-image-1 {min-height: 472px}
+.u-section-1 .u-layout-cell-2 {min-height: 472px}
+.u-section-1 .u-form-1 {margin-right: 0; margin-left: 0}
+.u-section-1 .u-text-3 {margin-top: -267px; margin-right: -190px; margin-left: auto} }
+
+@media (max-width: 991px){ .u-section-1 .u-sheet-1 {min-height: 482px}
+.u-section-1 .u-image-1 {min-height: 362px}
+.u-section-1 .u-container-layout-1 {padding-left: 30px; padding-right: 30px}
+.u-section-1 .u-layout-cell-2 {min-height: 100px}
+.u-section-1 .u-container-layout-2 {padding-left: 30px; padding-right: 30px} }
+
+@media (max-width: 767px){ .u-section-1 .u-sheet-1 {min-height: 763px}
+.u-section-1 .u-image-1 {min-height: 543px}
+.u-section-1 .u-container-layout-1 {padding-left: 10px; padding-right: 10px}
+.u-section-1 .u-container-layout-2 {padding-left: 10px; padding-right: 10px} }
+
+@media (max-width: 575px){ .u-section-1 .u-sheet-1 {min-height: 562px}
+.u-section-1 .u-image-1 {min-height: 342px}
+.u-section-1 .u-text-1 {font-size: 1.5rem}
+.u-section-1 .u-form-group-1 {width: 100%}
+.u-section-1 .u-form-group-2 {width: 100%}
+.u-section-1 .u-form-group-3 {width: 100%} }

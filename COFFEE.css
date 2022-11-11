@@ -1,0 +1,74 @@
+.u-section-1 {background-image: none}
+.u-section-1 .u-sheet-1 {min-height: 1670px}
+.u-section-1 .u-text-1 {width: 868px; font-size: 3.75rem; background-image: none; font-family: Lobster, cursive; margin: 11px auto 0}
+.u-section-1 .u-image-1 {width: 850px; height: 319px; margin: 20px auto 0 136px}
+.u-section-1 .u-text-2 {font-weight: 700; font-size: 1.5rem; margin: 37px 875px 0 65px}
+.u-section-1 .u-text-3 {font-size: 1.5rem; font-weight: 700; margin: -307px 623px 0 345px}
+.u-section-1 .u-text-4 {font-size: 1.5rem; font-weight: 700; margin: -307px 301px 0 582px}
+.u-section-1 .u-text-5 {font-size: 1.5rem; font-weight: 700; margin: -294px 21px 0 875px}
+.u-section-1 .u-text-6 {font-size: 3rem; margin: 52px 301px 0 367px}
+.u-section-1 .u-slider-1 {min-height: 425px; width: 529px; margin: 80px auto 0 40px}
+.u-section-1 .u-carousel-indicators-1 {position: absolute; width: 108px; height: 3px; top: auto; bottom: 30px}
+.u-section-1 .u-image-2 {background-image: url("images/171026-better-coffee-boost-se-329p_67dfb6820f7d3898b5486975903c2e51.fit-760w.jpg"); background-position: 50% 50%}
+.u-section-1 .u-container-layout-1 {padding: 30px}
+.u-section-1 .u-image-3 {background-image: url("images/57e1d14a435aaf14f6da8c7dda793678153bdee757596c48732f79dc974bc350bb_1280.jpg"); background-position: 50% 50%}
+.u-section-1 .u-container-layout-2 {padding: 30px}
+.u-section-1 .u-image-4 {background-image: url("images/iStock-938993594-1000x600.jpg"); background-position: 50% 50%}
+.u-section-1 .u-container-layout-3 {padding: 30px 50px}
+.u-section-1 .u-carousel-control-1 {width: 56px; height: 56px; left: 0; position: absolute; right: auto}
+.u-section-1 .u-carousel-control-2 {width: 56px; height: 56px; left: auto; position: absolute; right: 0}
+.u-section-1 .u-slider-2 {min-height: 425px; width: 510px; margin: -425px 36px 0 auto}
+.u-section-1 .u-carousel-indicators-2 {position: absolute; width: 108px; height: 3px; top: auto; bottom: 30px}
+.u-section-1 .u-image-5 {background-image: url("images/elephant-volunteer-work-in-sri-lanka.jpg"); background-position: 50% 50%}
+.u-section-1 .u-container-layout-4 {padding: 30px}
+.u-section-1 .u-image-6 {background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/phuket-tours-direct-private.jpg"); background-position: 50% 50%}
+.u-section-1 .u-container-layout-5 {padding: 30px}
+.u-section-1 .u-image-7 {background-image: url("images/phi-phi-islands-from-phi-phi-don-long-tail-boat-pptt-1.jpg"); background-position: 50% 50%}
+.u-section-1 .u-container-layout-6 {padding: 30px 50px}
+.u-section-1 .u-carousel-control-3 {width: 56px; height: 56px; left: 0; position: absolute; right: auto}
+.u-section-1 .u-carousel-control-4 {width: 56px; height: 56px; left: auto; position: absolute; right: 0}
+.u-section-1 .u-text-7 {font-size: 3rem; font-weight: 700; margin: 80px 98px 60px} 
+
+@media (max-width: 1199px){ .u-section-1 .u-image-1 {margin-left: 90px}
+.u-section-1 .u-text-2 {height: 320px}
+.u-section-1 .u-text-3 {height: 256px; margin-right: 523px; margin-left: 245px}
+.u-section-1 .u-slider-1 {height: auto}
+.u-section-1 .u-slider-2 {height: auto} }
+
+@media (max-width: 991px){ .u-section-1 .u-sheet-1 {min-height: 1621px}
+.u-section-1 .u-text-1 {width: 720px}
+.u-section-1 .u-image-1 {width: 720px; height: 270px; margin-left: 0}
+.u-section-1 .u-text-2 {margin-right: 720px; margin-left: 0}
+.u-section-1 .u-text-3 {margin-right: 413px; margin-left: 135px}
+.u-section-1 .u-text-4 {margin-right: 191px; margin-left: 472px}
+.u-section-1 .u-text-5 {margin-right: 0; margin-left: 676px}
+.u-section-1 .u-container-layout-3 {padding-left: 30px; padding-right: 30px}
+.u-section-1 .u-container-layout-6 {padding-left: 30px; padding-right: 30px} }
+
+@media (max-width: 767px){ .u-section-1 .u-sheet-1 {min-height: 1554px}
+.u-section-1 .u-text-1 {width: 540px}
+.u-section-1 .u-image-1 {width: 540px; height: 203px}
+.u-section-1 .u-text-2 {margin-right: 540px}
+.u-section-1 .u-text-3 {margin-right: 323px; margin-left: 45px}
+.u-section-1 .u-text-4 {margin-right: 101px; margin-left: 382px}
+.u-section-1 .u-text-5 {margin-left: 496px}
+.u-section-1 .u-text-6 {margin-right: 211px; margin-left: 277px}
+.u-section-1 .u-slider-1 {margin-left: 11px}
+.u-section-1 .u-container-layout-1 {padding-left: 10px; padding-right: 10px}
+.u-section-1 .u-container-layout-2 {padding-left: 10px; padding-right: 10px}
+.u-section-1 .u-container-layout-3 {padding-left: 10px; padding-right: 10px}
+.u-section-1 .u-slider-2 {margin-right: 30px}
+.u-section-1 .u-container-layout-4 {padding-left: 10px; padding-right: 10px}
+.u-section-1 .u-container-layout-5 {padding-left: 10px; padding-right: 10px}
+.u-section-1 .u-container-layout-6 {padding-left: 10px; padding-right: 10px} }
+
+@media (max-width: 575px){ .u-section-1 .u-sheet-1 {min-height: 1479px}
+.u-section-1 .u-text-1 {width: 340px; font-size: 3rem}
+.u-section-1 .u-image-1 {width: 340px; height: 128px}
+.u-section-1 .u-text-2 {margin-right: 340px}
+.u-section-1 .u-text-3 {margin-right: 168px; margin-left: 0}
+.u-section-1 .u-text-4 {margin-right: 1px; margin-left: 282px}
+.u-section-1 .u-text-5 {margin-left: 296px}
+.u-section-1 .u-text-6 {font-size: 1.5rem; margin-right: 111px; margin-left: 177px}
+.u-section-1 .u-slider-1 {width: 340px; margin-left: 0}
+.u-section-1 .u-slider-2 {width: 340px; margin-right: 0} }

@@ -1,0 +1,59 @@
+Design Tool  : MockFlow Wireframe Maker (Online)
+Website Link : https://www.mockflow.com/
+
+Software Info : 
+
+	What is MockFlow?
+
+		"MockFlow is a cloud-based wireframe software allowing designers to collaborate in real time on user interface 
+		 prototypes for websites and software."
+
+		 MockFlow is an online wireframe software for designers planning, building and sharing work. MockFlow provides 
+		 users with a large library of mockup components, icons, stickers and other shapes to quickly and efficiently build 
+		 clean looking interface mockups.
+
+		 MockFlow makes real-time design collaboration easy with its built in sharing feature and team chat.
+
+
+	MockFlow Features :
+
+		 If you are a website designer, a mobile app developer, a student, or just someone who is looking for a reliable 
+		 mockup and wireframing tool for your projects, you will find that there are a lot of prototyping and wireframing 
+		 solutions available out there. MockFlow stands out not simply because it’s better or more capable than the rest, 
+		 as it is a fairly decent wireframing software solution, just like many other web-based platforms out there. What 
+		 makes it different is that it provides a one-stop solution for all of your UX needs. MockFlow includes a wide 
+		 variety of features and capabilities such as wireframes, sitemap, annotations, design collaboration, style guides, 
+		 and so much more.
+
+		 The web-based platform is maintained by a dedicated, highly experienced team of professionals who specialize in 
+		 design engineering. They adhere to a fairly agile development process to provide customers regular updates to 
+		 the platform as well as perform consistent security audits to ensure user data protection.
+
+		 MockFlow offers a feature-rich UX solution for design teams and individuals, from wireframing and UI spec systems 
+		 to sitemaps and design workflow. Users can plan and create professional user interfaces using a single robust 
+		 suite equipped with all the tools they could possibly need. Some of MockFlow’s core features include:
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+		 WireframePro – Transform your user interface ideas into cool professional designs for quick and easy iteration.
+		 StyleGuide   – Quickly and easily build attractive UI design specifications and brand pages like any professional designer.
+		 DesignCollab – Streamline your design review and collaboration process with your team in an efficient and organized way.
+		 WebsitePro   – A highly efficient and feature-rich development platform designed for building, managing, and hosting 
+			        professional websites.
+		 SiteMap      – Plan your infrastructure and data architecture like a pro through informative visuals with sitemaps 
+				and UI flows.
+		 BannerPro    – Design and create your own interactive banners and engaging marketing advertisements without 
+				the need for coding or programming skills.
+		 AnnotatePro  – Design illustrations and create interactive images and infographics.
+
+
+	MockFlow Benefits :
+
+		 MockFlow offers users a simple and very effective method of developing wireframes for a wide array of projects. 
+		 Whether the user is designing an app for a social media platform like Facebook, an app for Android devices, 
+		 or if they just need a WordPress theme to build on, the MockFlow platform has all the necessary tools and 
+		 capabilities to need to make that project happen.
+
+		 With such a comprehensive UX suite, users are able to create a new wireframe from the ground up 
+		 using any of the built-in templates available. MockFlow allows you to find and come up with a quick 
+	 	 solution for your ideas and potential projects before being given the green light.		 

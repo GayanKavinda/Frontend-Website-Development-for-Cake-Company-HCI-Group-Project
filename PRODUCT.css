@@ -1,0 +1,235 @@
+.u-section-1 {background-image: none}
+.u-section-1 .u-sheet-1 {min-height: 560px}
+.u-section-1 .u-icon-1 {height: 64px; width: 64px; margin: 8px 4px 0 auto}
+.u-section-1 .u-text-1 {margin: 0 auto 0 24px}
+.u-section-1 .u-text-2 {margin: -39px auto 0 345px}
+.u-section-1 .u-text-3 {margin: -39px 400px 0 auto}
+.u-section-1 .u-text-4 {margin: -39px 68px 0 905px}
+.u-section-1 .u-image-1 {width: 207px; height: 254px; margin: 41px auto 0 4px}
+.u-section-1 .u-image-2 {width: 221px; height: 254px; margin: -254px auto 0 308px}
+.u-section-1 .u-image-3 {width: 217px; height: 247px; margin: -254px 326px 0 auto}
+.u-section-1 .u-image-4 {width: 221px; height: 247px; margin: -247px 24px 0 auto}
+.u-section-1 .u-btn-1 {border-style: none; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; margin: 56px auto 0 34px}
+.u-section-1 .u-btn-2 {border-style: none; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; margin: -46px auto 0 333px}
+.u-section-1 .u-btn-3 {border-style: none; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; margin: -46px 363px 0 auto}
+.u-section-1 .u-btn-4 {border-style: none; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; margin: -46px 85px 60px auto} 
+
+@media (max-width: 1199px){ .u-section-1 .u-sheet-1 {min-height: 543px}
+.u-section-1 .u-text-4 {margin-right: 0; margin-left: 774px}
+.u-section-1 .u-image-1 {height: 255px}
+.u-section-1 .u-image-2 {height: 255px; margin-top: -255px}
+.u-section-1 .u-image-3 {margin-top: -255px}
+.u-section-1 .u-image-4 {height: 254px; margin-top: -254px}
+.u-section-1 .u-btn-1 {margin-left: 0}
+.u-section-1 .u-btn-2 {margin-left: 133px}
+.u-section-1 .u-btn-3 {margin-right: 160px}
+.u-section-1 .u-btn-4 {margin-right: 0; margin-bottom: 0} }
+
+@media (max-width: 991px){ .u-section-1 .u-text-4 {margin-left: 554px}
+.u-section-1 .u-btn-2 {margin-left: 0}
+.u-section-1 .u-btn-3 {margin-right: 0} }
+
+@media (max-width: 767px){ .u-section-1 .u-sheet-1 {min-height: 786px}
+.u-section-1 .u-text-4 {margin-left: 374px}
+.u-section-1 .u-image-3 {margin-right: 323px} }
+
+@media (max-width: 575px){ .u-section-1 .u-text-2 {margin-left: 217px}
+.u-section-1 .u-text-3 {margin-right: 252px}
+.u-section-1 .u-text-4 {margin-left: 174px}
+.u-section-1 .u-image-2 {margin-left: 119px}
+.u-section-1 .u-image-3 {margin-right: 123px} }.u-section-2 {background-image: none}
+.u-section-2 .u-sheet-1 {min-height: 968px}
+.u-section-2 .u-text-1 {font-size: 3.75rem; margin: 55px auto 0 56px}
+.u-section-2 .u-slider-1 {min-height: 246px; width: 384px; margin: 36px auto 0 15px}
+.u-section-2 .u-carousel-indicators-1 {position: absolute; width: 108px; height: 3px; top: auto; bottom: 30px}
+.u-section-2 .u-image-1 {background-image: linear-gradient(0deg, rgba(0,0,0,0.05), rgba(0,0,0,0.05)), url("images/strawberrycake-1460x920.jpg"); background-position: 50% 50%}
+.u-section-2 .u-container-layout-1 {padding: 30px}
+.u-section-2 .u-image-2 {background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/chocolate-cakes-dark-background_105495-149.jpg"); background-position: 50% 50%}
+.u-section-2 .u-container-layout-2 {padding: 30px}
+.u-section-2 .u-carousel-control-1 {width: 56px; height: 56px; left: 0; position: absolute; right: auto}
+.u-section-2 .u-carousel-control-2 {width: 56px; height: 56px; left: auto; position: absolute; right: 0}
+.u-section-2 .u-image-3 {width: 217px; height: 247px; margin: -237px 90px 0 auto}
+.u-section-2 .u-image-4 {width: 249px; height: 247px; margin: -247px 363px 0 auto}
+.u-section-2 .u-btn-1 {border-style: none; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; margin: 49px 428px 0 auto}
+.u-section-2 .u-btn-2 {border-style: none; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; margin: -46px 124px 0 auto}
+.u-section-2 .u-image-5 {width: 238px; height: 254px; margin: 77px 363px 0 auto}
+.u-section-2 .u-image-6 {width: 217px; height: 252px; margin: -254px 90px 0 auto}
+.u-section-2 .u-btn-3 {border-style: none; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; margin: 32px 406px 0 auto}
+.u-section-2 .u-btn-4 {border-style: none; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; margin: -46px 132px 55px auto} 
+
+@media (max-width: 1199px){ .u-section-2 .u-slider-1 {min-height: 546px; height: auto; margin-right: 0; margin-left: auto}
+.u-section-2 .u-image-4 {height: 248px}
+.u-section-2 .u-btn-1 {margin-right: 228px}
+.u-section-2 .u-btn-2 {margin-right: 0}
+.u-section-2 .u-btn-3 {margin-right: 206px}
+.u-section-2 .u-btn-4 {margin-right: 0} }
+
+@media (max-width: 991px){ .u-section-2 .u-slider-1 {min-height: 483px}
+.u-section-2 .u-btn-1 {margin-right: 8px}
+.u-section-2 .u-btn-3 {margin-right: 0} }
+
+@media (max-width: 767px){ .u-section-2 .u-container-layout-1 {padding-left: 10px; padding-right: 10px}
+.u-section-2 .u-container-layout-2 {padding-left: 10px; padding-right: 10px}
+.u-section-2 .u-image-4 {margin-right: 291px}
+.u-section-2 .u-btn-1 {margin-right: 0}
+.u-section-2 .u-image-5 {margin-right: 302px} }
+
+@media (max-width: 575px){ .u-section-2 .u-sheet-1 {min-height: 1080px}
+.u-section-2 .u-text-1 {font-size: 1.5rem}
+.u-section-2 .u-slider-1 {width: 340px}
+.u-section-2 .u-image-4 {margin-right: 91px}
+.u-section-2 .u-image-5 {margin-right: 102px} }.u-section-3 {background-image: none}
+.u-section-3 .u-sheet-1 {min-height: 902px}
+.u-section-3 .u-text-1 {font-size: 3rem; margin: 50px auto 0 69px}
+.u-section-3 .u-slider-1 {min-height: 246px; width: 384px; margin: 50px auto 0 0}
+.u-section-3 .u-carousel-indicators-1 {position: absolute; width: 108px; height: 3px; top: auto; bottom: 30px}
+.u-section-3 .u-image-1 {background-image: linear-gradient(0deg, rgba(0,0,0,0.05), rgba(0,0,0,0.05)), url("images/images.jpg"); background-position: 50% 50%}
+.u-section-3 .u-container-layout-1 {padding: 30px}
+.u-section-3 .u-image-2 {background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/1-lemon-loaf-large-WEB2.jpg"); background-position: 50% 50%}
+.u-section-3 .u-container-layout-2 {padding: 30px}
+.u-section-3 .u-carousel-control-1 {width: 56px; height: 56px; left: 0; position: absolute; right: auto}
+.u-section-3 .u-carousel-control-2 {width: 56px; height: 56px; left: auto; position: absolute; right: 0}
+.u-section-3 .u-image-3 {width: 321px; height: 243px; margin: -259px 394px 0 auto}
+.u-section-3 .u-image-4 {width: 264px; height: 243px; margin: -243px 77px 0 auto}
+.u-section-3 .u-btn-1 {border-style: none; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; margin: 30px 496px 0 auto}
+.u-section-3 .u-btn-2 {border-style: none; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; margin: -46px 207px 0 auto; padding: 10px 31px 10px 29px}
+.u-section-3 .u-image-5 {width: 328px; height: 243px; margin: 41px 394px 0 auto}
+.u-section-3 .u-image-6 {width: 264px; height: 243px; margin: -254px 77px 0 auto}
+.u-section-3 .u-btn-3 {border-style: none; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; margin: 61px 496px 0 auto}
+.u-section-3 .u-btn-4 {border-style: none; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; margin: -46px 207px 60px auto; padding: 10px 31px 10px 29px} 
+
+@media (max-width: 1199px){ .u-section-3 .u-slider-1 {height: auto}
+.u-section-3 .u-image-4 {margin-top: -183px}
+.u-section-3 .u-btn-1 {margin-right: 296px}
+.u-section-3 .u-btn-2 {margin-right: 7px}
+.u-section-3 .u-btn-3 {margin-right: 296px}
+.u-section-3 .u-btn-4 {margin-right: 7px} }
+
+@media (max-width: 991px){ .u-section-3 .u-btn-1 {margin-right: 76px}
+.u-section-3 .u-btn-2 {margin-right: 0}
+.u-section-3 .u-image-5 {margin-right: 392px}
+.u-section-3 .u-btn-3 {margin-right: 76px}
+.u-section-3 .u-btn-4 {margin-right: 0} }
+
+@media (max-width: 767px){ .u-section-3 .u-container-layout-1 {padding-left: 10px; padding-right: 10px}
+.u-section-3 .u-container-layout-2 {padding-left: 10px; padding-right: 10px}
+.u-section-3 .u-image-3 {margin-right: 219px}
+.u-section-3 .u-btn-1 {margin-right: 0}
+.u-section-3 .u-image-5 {margin-right: 212px}
+.u-section-3 .u-btn-3 {margin-right: 0} }
+
+@media (max-width: 575px){ .u-section-3 .u-text-1 {font-size: 1.5rem}
+.u-section-3 .u-slider-1 {width: 340px}
+.u-section-3 .u-image-3 {margin-right: 19px}
+.u-section-3 .u-image-4 {margin-right: 76px}
+.u-section-3 .u-image-5 {margin-right: 12px}
+.u-section-3 .u-image-6 {margin-right: 76px} }.u-section-4 {background-image: none}
+.u-section-4 .u-sheet-1 {min-height: 785px}
+.u-section-4 .u-text-1 {font-size: 3.75rem; margin: 20px auto 0 39px}
+.u-section-4 .u-slider-1 {min-height: 246px; width: 384px; margin: 20px auto 0 20px}
+.u-section-4 .u-carousel-indicators-1 {position: absolute; width: 108px; height: 3px; top: auto; bottom: 30px}
+.u-section-4 .u-image-1 {background-image: linear-gradient(0deg, rgba(0,0,0,0.05), rgba(0,0,0,0.05)), url("images/Triple-Chocolate-Mousse-Cake_1200-1-720x720.jpg"); background-position: 50% 50%}
+.u-section-4 .u-container-layout-1 {padding: 30px}
+.u-section-4 .u-image-2 {background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/maxresdefault.jpg"); background-position: 50% 50%}
+.u-section-4 .u-container-layout-2 {padding: 30px}
+.u-section-4 .u-carousel-control-1 {width: 56px; height: 56px; left: 0; position: absolute; right: auto}
+.u-section-4 .u-carousel-control-2 {width: 56px; height: 56px; left: auto; position: absolute; right: 0}
+.u-section-4 .u-image-3 {width: 248px; height: 243px; margin: -273px 428px 0 auto}
+.u-section-4 .u-image-4 {width: 237px; height: 243px; margin: -243px 91px 0 auto}
+.u-section-4 .u-btn-1 {border-style: none; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; margin: 30px 456px 0 auto}
+.u-section-4 .u-btn-2 {border-style: none; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; margin: -46px 213px 0 auto}
+.u-section-4 .u-image-5 {width: 272px; height: 243px; margin: 39px 428px 0 auto}
+.u-section-4 .u-image-6 {width: 268px; height: 243px; margin: -243px 69px 0 auto}
+.u-section-4 .u-btn-3 {border-style: none; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; margin: 30px 456px 0 auto}
+.u-section-4 .u-btn-4 {border-style: none; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; margin: -46px 213px 31px auto} 
+
+@media (max-width: 1199px){ .u-section-4 .u-slider-1 {height: auto}
+.u-section-4 .u-btn-1 {margin-right: 256px}
+.u-section-4 .u-btn-2 {margin-right: 13px}
+.u-section-4 .u-btn-3 {margin-right: 256px}
+.u-section-4 .u-btn-4 {margin-right: 13px} }
+
+@media (max-width: 991px){ .u-section-4 .u-btn-1 {margin-right: 36px}
+.u-section-4 .u-btn-2 {margin-right: 0}
+.u-section-4 .u-btn-3 {margin-right: 36px}
+.u-section-4 .u-btn-4 {margin-right: 0} }
+
+@media (max-width: 767px){ .u-section-4 .u-container-layout-1 {padding-left: 10px; padding-right: 10px}
+.u-section-4 .u-container-layout-2 {padding-left: 10px; padding-right: 10px}
+.u-section-4 .u-image-3 {margin-right: 292px}
+.u-section-4 .u-btn-1 {margin-right: 0}
+.u-section-4 .u-image-5 {margin-right: 268px}
+.u-section-4 .u-btn-3 {margin-right: 0} }
+
+@media (max-width: 575px){ .u-section-4 .u-text-1 {font-size: 1.5rem}
+.u-section-4 .u-slider-1 {width: 340px; margin-left: 0}
+.u-section-4 .u-image-3 {margin-right: 92px}
+.u-section-4 .u-image-5 {margin-right: 68px} }.u-section-5 {background-image: none}
+.u-section-5 .u-sheet-1 {min-height: 785px}
+.u-section-5 .u-text-1 {font-size: 3.75rem; margin: 20px auto 0 39px}
+.u-section-5 .u-slider-1 {min-height: 246px; width: 384px; margin: 20px auto 0 20px}
+.u-section-5 .u-carousel-indicators-1 {position: absolute; width: 108px; height: 3px; top: auto; bottom: 30px}
+.u-section-5 .u-image-1 {background-image: linear-gradient(0deg, rgba(0,0,0,0.05), rgba(0,0,0,0.05)), url("images/Horizon-Organic-SpendWithPennies-Chocolate-Pudding-21.jpg"); background-position: 50% 50%}
+.u-section-5 .u-container-layout-1 {padding: 30px}
+.u-section-5 .u-image-2 {background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/coffee_terrine-0c48191.jpg"); background-position: 50% 50%}
+.u-section-5 .u-container-layout-2 {padding: 30px}
+.u-section-5 .u-carousel-control-1 {width: 56px; height: 56px; left: 0; position: absolute; right: auto}
+.u-section-5 .u-carousel-control-2 {width: 56px; height: 56px; left: auto; position: absolute; right: 0}
+.u-section-5 .u-image-3 {width: 267px; height: 243px; margin: -273px 376px 0 auto}
+.u-section-5 .u-image-4 {width: 222px; height: 243px; margin: -243px 96px 0 auto}
+.u-section-5 .u-btn-1 {border-style: none; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; margin: 30px 456px 0 auto}
+.u-section-5 .u-btn-2 {border-style: none; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; margin: -46px 213px 0 auto}
+.u-section-5 .u-image-5 {width: 266px; height: 243px; margin: 39px 376px 0 auto}
+.u-section-5 .u-image-6 {width: 246px; height: 243px; margin: -243px 91px 0 auto}
+.u-section-5 .u-btn-3 {border-style: none; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; margin: 30px 456px 0 auto}
+.u-section-5 .u-btn-4 {border-style: none; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; margin: -46px 213px 31px auto} 
+
+@media (max-width: 1199px){ .u-section-5 .u-slider-1 {height: auto}
+.u-section-5 .u-btn-1 {margin-right: 256px}
+.u-section-5 .u-btn-2 {margin-right: 13px}
+.u-section-5 .u-btn-3 {margin-right: 256px}
+.u-section-5 .u-btn-4 {margin-right: 13px} }
+
+@media (max-width: 991px){ .u-section-5 .u-btn-1 {margin-right: 36px}
+.u-section-5 .u-btn-2 {margin-right: 0}
+.u-section-5 .u-btn-3 {margin-right: 36px}
+.u-section-5 .u-btn-4 {margin-right: 0} }
+
+@media (max-width: 767px){ .u-section-5 .u-container-layout-1 {padding-left: 10px; padding-right: 10px}
+.u-section-5 .u-container-layout-2 {padding-left: 10px; padding-right: 10px}
+.u-section-5 .u-image-3 {margin-right: 273px}
+.u-section-5 .u-btn-1 {margin-right: 0}
+.u-section-5 .u-image-5 {margin-right: 274px}
+.u-section-5 .u-btn-3 {margin-right: 0} }
+
+@media (max-width: 575px){ .u-section-5 .u-text-1 {font-size: 1.5rem}
+.u-section-5 .u-slider-1 {width: 340px; margin-left: 0}
+.u-section-5 .u-image-3 {margin-right: 73px}
+.u-section-5 .u-image-5 {margin-right: 74px} }.u-section-6 {background-image: none}
+.u-section-6 .u-sheet-1 {min-height: 431px}
+.u-section-6 .u-form-1 {height: 280px; margin: 61px 329px 0 241px}
+.u-section-6 .u-form-group-3 {margin-left: 0}
+.u-section-6 .u-btn-1 {border-style: solid; background-image: none}
+.u-section-6 .u-text-1 {margin: -259px auto 0 79px}
+.u-section-6 .u-text-2 {margin: 25px auto 0 79px}
+.u-section-6 .u-text-3 {margin: 21px auto 0 70px}
+.u-section-6 .u-text-4 {margin: 32px 534px 0 428px}
+.u-section-6 .u-btn-2 {border-style: none; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; background-image: none; margin: 37px auto 25px 260px; padding: 13px 16px 14px 15px} 
+
+@media (max-width: 1199px){ .u-section-6 .u-form-1 {width: 570px; margin-left: 141px; margin-right: 229px}
+.u-section-6 .u-text-4 {margin-right: 434px; margin-left: 328px}
+.u-section-6 .u-btn-2 {margin-left: 60px; width: 148px; height: 53px} }
+
+@media (max-width: 991px){ .u-section-6 .u-form-1 {margin-left: 31px; margin-right: 119px}
+.u-section-6 .u-text-4 {margin-right: 324px; margin-left: 218px}
+.u-section-6 .u-btn-2 {margin-left: 0} }
+
+@media (max-width: 767px){ .u-section-6 .u-form-1 {width: 540px; margin-left: 0; margin-right: 0}
+.u-section-6 .u-text-4 {margin-right: 234px; margin-left: 128px} }
+
+@media (max-width: 575px){ .u-section-6 .u-form-1 {width: 340px}
+.u-section-6 .u-form-group-1 {width: 100%}
+.u-section-6 .u-form-group-2 {width: 100%}
+.u-section-6 .u-form-group-3 {width: 100%}
+.u-section-6 .u-form-group-4 {width: 100%}
+.u-section-6 .u-text-4 {margin-right: 134px; margin-left: 28px} }
